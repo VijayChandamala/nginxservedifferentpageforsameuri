@@ -1,1 +1,1 @@
-# Server Different Page for same uri based on condition in NGINX
+# Serve Different Page for same uri based on condition in NGINX
