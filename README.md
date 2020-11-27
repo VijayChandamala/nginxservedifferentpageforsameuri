@@ -25,3 +25,6 @@
 ```
 
 ## Enjoy :)
+
+
+#### Official documentation for nginx alias module : http://nginx.org/en/docs/http/ngx_http_core_module.html#alias
